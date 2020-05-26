@@ -7,3 +7,4 @@ Graduation project on the theme: "Development of the Web site "Japanese Culture"
 ![](https://github.com/aizhannova/Graduation-project-Web-site/blob/master/5.png)
 ![](https://github.com/aizhannova/Graduation-project-Web-site/blob/master/6.png)
 ![](https://github.com/aizhannova/Graduation-project-Web-site/blob/master/7.png)
+![](https://github.com/aizhannova/Graduation-project-Web-site/blob/master/8.png)
