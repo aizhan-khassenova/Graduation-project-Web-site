@@ -1,5 +1,5 @@
 # Graduation-project-Web-site
-Graduation project on the theme: "Development of a web site "Japanese culture" for optional classes of students majoring in "Tourism".
+Graduation project on the theme: "Development of a web site "Japanese culture" for optional classes of students majoring in "Tourism"
 ![](https://github.com/aizhannova/Graduation-project-Web-site/blob/master/1.png)
 ![](https://github.com/aizhannova/Graduation-project-Web-site/blob/master/2.png)
 ![](https://github.com/aizhannova/Graduation-project-Web-site/blob/master/3.png)
